@@ -1,0 +1,1 @@
+alter table paciente add logradouro varchar(100) not null;
